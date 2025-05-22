@@ -2,8 +2,8 @@
 # 🧾 Microsoft Excel Examination Task
 
 ## 📌 Title: Personal Monthly Expense Tracker
-- **Time Limit:** 45 minutes  
-- **Total Marks:** 100  
+- **Time Limit:** 30 minutes  
+- **Total Marks:** 50  
 
 ---
 
@@ -13,7 +13,7 @@ Create a spreadsheet that tracks personal expenses for the month of **April 2025
 
 ---
 
-### 🟩 Section A: Table Setup (20 Marks)
+### 🟩 Section A: Table Setup (10 Marks)
 
 1. Create a table with the following structure:
 
@@ -32,7 +32,7 @@ Create a spreadsheet that tracks personal expenses for the month of **April 2025
 
 ---
 
-### 🟦 Section B: Summary Table & Formulas (40 Marks)
+### 🟦 Section B: Summary Table & Formulas (20 Marks)
 
 3. Create a summary table to calculate total spending per category:
 
@@ -47,7 +47,7 @@ Create a spreadsheet that tracks personal expenses for the month of **April 2025
 
 ---
 
-### 🟨 Section C: Chart Creation (20 Marks)
+### 🟨 Section C: Chart Creation (10 Marks)
 
 6. Insert a **Pie Chart** or **Column Chart** based on the summary table.  
 7. Add:
@@ -57,7 +57,7 @@ Create a spreadsheet that tracks personal expenses for the month of **April 2025
 
 ---
 
-### 🟪 Section D: Bonus Formatting & Extras (20 Marks)
+### 🟪 Section D: Bonus Formatting & Extras (10 Marks)
 
 8. Use **Conditional Formatting** to highlight expenses over ₹500 in red in the “Amount” column.  
 9. Use **Wrap Text** for long descriptions.  
