@@ -28,7 +28,8 @@ Create a spreadsheet that tracks personal expenses for the month of **April 2025
 - Bold the header row  
 - Add borders around the table  
 - Use light fill color for headers  
-- Format the “Amount” column as Currency  
+- Format the “Amount” column as Currency
+- Add a data validation of list in category.
 
 ---
 
